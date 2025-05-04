@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "constraintPractice"
+rootProject.name = "pizzaApp"
 include ':app'
